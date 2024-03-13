@@ -15,23 +15,6 @@ To run the tests, use the command `npm test`.
 
 ## Functionality
 
-# Pandell Assessment
-
-This project is a simple JavaScript application that generates an array of 10,000 unique numbers from 1 to 10,000.
-
-## Installation
-
-1. Clone the repository.
-2. Run `npm install` to install the dependencies.
-
-## Usage
-
-To run the application, use the command `npm start`.
-
-To run the tests, use the command `npm test`.
-
-## Functionality
-
 The main function of this application is `generateRandomNumbers`, which generates an array of 10,000 unique numbers from 1 to 10,000.
 
 The `generateRandomNumbers` function uses the Fisher-Yates (also known as Knuth) shuffle algorithm to generate a sequence of numbers from 1 to 10,000 in a random order.
