@@ -33,15 +33,3 @@ The tests check the following:
 
 This project is licensed under the terms of the MIT license.
 
-## Tests
-
-The tests check the following:
-
-- The `generateRandomNumbers` function returns an array of 10,000 numbers.
-- All the numbers in the array are unique.
-- The array contains all numbers from 1 to 10,000.
-- The array does not contain any `undefined`, `null`, or `NaN` values.
-
-## License
-
-This project is licensed under the terms of the MIT license.
