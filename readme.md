@@ -1,4 +1,4 @@
-# Pandell Assessment
+# Random Array 1-10000 Assessment
 
 This project is a simple JavaScript application that generates an array of 10,000 unique numbers from 1 to 10,000.
 
